@@ -2,7 +2,7 @@
 
 <p align="center"><img height="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/chase.png" alt="chase bank logo"></p>
 
-### Chase Freedom Flex
+### [Chase Freedom Flex](https://creditcards.chase.com/cash-back-credit-cards/freedom/flex)
 
 <img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/chase_freedom.png" alt="chase freedom flex">
 
