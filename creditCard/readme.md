@@ -1,4 +1,5 @@
-<h2 align="center">Chase Bank</h2>
+## Chase Bank
+
 <p align="center"><img width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/chase.png" alt="chase bank logo"></p>
 
 ### Chase Freedom Flex
@@ -26,6 +27,8 @@
 
 ## Bank of America
 
+<p align="center"><img width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/boa.png" alt="boa logo"></p>
+
 ### Cash Rewards
 * $200 online cash rewards bonus offer
 * 3% cash back in the category of your choice
@@ -48,6 +51,8 @@
 
 
 ## Citi Bank
+
+<p align="center"><img width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/citi.png" alt="citi logo"></p>
 
 ### Costco Anywhere Visa
 * Earn 4% cash back on eligible gas for the first $7,000 per year
