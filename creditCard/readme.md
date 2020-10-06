@@ -1,8 +1,11 @@
-## Chase Bank
+<!-- Chase Bank -->
 
 <p align="center"><img width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/chase.png" alt="chase bank logo"></p>
 
 ### Chase Freedom Flex
+
+<img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/chase_freedom.png">
+
 * Earn a $200 bonus after you spend 500 on purchases in the first 3 months from account opening
 * Earn 5% on up to $1,500 on combined purchases in bonus categories each quarter
 * Earn 5% on travel purchased through Chase Ultimate Rewards
@@ -12,6 +15,9 @@
 * No annual fee
 
 ### Chase Sapphire Preferred (CSP)
+
+<img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/chase_sapphire_preferred.png">
+
 * After you spend $4,000 on purchases in the first 3 months from account opening. That's 1,000 toward travel
 * Earn 2x points on travel and dining at restaurants- from airfare and hotels to fine dining and cafés
 * Earn 1 point per dollar spent on all other purchases
@@ -19,15 +25,18 @@
 * Annual fee $95
 
 ### Amazon Prime Rewards Visa
+
+<img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/chase_amazon.png">
+
 * Earn 5% Back at Amazon.com and Whole Foods Market with an eligible Prime membership
 * Earn 2% Back at restaurants, gas stations and drugstores
 * Earn 1% Back on all other purchases
 * No annual fee
 
 
-## Bank of America
+<!-- Bank of America -->
 
-<p align="center"><img width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/boa.png" alt="boa logo"></p>
+<p align="center"><img src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/boa.png" alt="boa logo"></p>
 
 ### Cash Rewards
 * $200 online cash rewards bonus offer
