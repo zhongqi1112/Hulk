@@ -3,7 +3,6 @@
 <p align="center"><img height="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/chase.png" alt="chase bank logo"></p>
 
 ### [Chase Freedom Flex](https://creditcards.chase.com/cash-back-credit-cards/freedom/flex)
-<a href="https://creditcards.chase.com/cash-back-credit-cards/freedom/flex" target="_blank">Chase Freedom Flex</a>
 
 <img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/chase_freedom.png" alt="chase freedom flex">
 
@@ -15,7 +14,7 @@
 * Earn 1% on all other purchases
 * No annual fee
 
-### Chase Sapphire Preferred (CSP)
+### [Chase Sapphire Preferred (CSP)](https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred)
 
 <img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/chase_sapphire_preferred.png" alt="chase sapphire preferred">
 
@@ -25,7 +24,7 @@
 * Get 25% more value when you redeem for airfare, hotels, car rentals and cruises through Chase Ultimate Rewards.
 * Annual fee $95
 
-### Amazon Prime Rewards Visa
+### [Amazon Prime Rewards Visa](https://creditcards.chase.com/cash-back-credit-cards/amazon-rewards)
 
 <img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/chase_amazon.png" alt="amazon prime rewards">
 
@@ -39,7 +38,7 @@
 
 <p align="center"><img height="50" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/boa.png" alt="boa logo"></p>
 
-### Cash Rewards
+### [Cash Rewards](https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card)
 
 <img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/boa_cash_rewards.png" alt="boa cash rewards">
 
@@ -50,7 +49,7 @@
 * Your choice categories include: gas, online shopping, dining, travel, drug stores, or home improvement/furnishings
 * No annual fee
 
-### Travel Rewards
+### [Travel Rewards](https://www.bankofamerica.com/credit-cards/products/travel-rewards-credit-card)
 
 <img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/boa_travel_rewards.png" alt="boa travel rewards">
 
@@ -58,7 +57,7 @@
 * Earn unlimited 1.5 points for every $1 you spend on all purchases everywhere, every time and no expiration on points
 * No annual fee
 
-### Premium Rewards
+### [Premium Rewards](https://www.bankofamerica.com/credit-cards/products/premium-rewards-credit-card)
 
 <img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/boa_premium_rewards.png" alt="boa premium rewards">
 
@@ -73,7 +72,7 @@
 
 <p align="center"><img height="50" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/citi.png" alt="citi logo"></p>
 
-### Costco Anywhere Visa
+### [Costco Anywhere Visa](https://www.citi.com/credit-cards/credit-card-details/citi.action?ID=Citi-costco-anywhere-visa-credit-card)
 
 <img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/citi-costco.png" alt="citi costco anywhere">
 
