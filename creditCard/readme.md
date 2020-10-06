@@ -1,10 +1,10 @@
 <!-- Chase Bank -->
 
-<p align="center"><img height="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/chase.png" alt="chase bank logo"></p>
+<p align="center"><img height="50" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/chase.png" alt="chase bank logo"></p>
 
 ### Chase Freedom Flex
 
-<img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/chase_freedom.png">
+<img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/chase_freedom.png" alt="chase freedom flex">
 
 * Earn a $200 bonus after you spend 500 on purchases in the first 3 months from account opening
 * Earn 5% on up to $1,500 on combined purchases in bonus categories each quarter
@@ -16,7 +16,7 @@
 
 ### Chase Sapphire Preferred (CSP)
 
-<img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/chase_sapphire_preferred.png">
+<img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/chase_sapphire_preferred.png" alt="chase sapphire preferred">
 
 * After you spend $4,000 on purchases in the first 3 months from account opening. That's 1,000 toward travel
 * Earn 2x points on travel and dining at restaurants- from airfare and hotels to fine dining and cafés
@@ -26,7 +26,7 @@
 
 ### Amazon Prime Rewards Visa
 
-<img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/chase_amazon.png">
+<img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/chase_amazon.png" alt="amazon prime rewards">
 
 * Earn 5% Back at Amazon.com and Whole Foods Market with an eligible Prime membership
 * Earn 2% Back at restaurants, gas stations and drugstores
@@ -36,11 +36,11 @@
 
 <!-- Bank of America -->
 
-<p align="center"><img height="450" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/boa.png" alt="boa logo"></p>
+<p align="center"><img height="50" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/boa.png" alt="boa logo"></p>
 
 ### Cash Rewards
 
-<img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/boa_cash_rewards.png">
+<img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/boa_cash_rewards.png" alt="boa cash rewards">
 
 * $200 online cash rewards bonus offer
 * 3% cash back in the category of your choice
@@ -51,7 +51,7 @@
 
 ### Travel Rewards
 
-<img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/boa_cash_rewards.png">
+<img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/boa_travel_rewards.png" alt="boa travel rewards">
 
 * 25,000 online bonus points offer (a $250 value)
 * Earn unlimited 1.5 points for every $1 you spend on all purchases everywhere, every time and no expiration on points
@@ -59,7 +59,7 @@
 
 ### Premium Rewards
 
-<img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/boa_cash_rewards.png">
+<img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/boa_premium_rewards.png" alt="boa premium rewards">
 
 * 50,000 online bonus points offer (a $500 value)
 * Earn unlimited 2 points for every $1 spent on travel and dining purchases
@@ -70,9 +70,12 @@
 
 <!-- Citi Bank -->
 
-<p align="center"><img height="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/citi.png" alt="citi logo"></p>
+<p align="center"><img height="50" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/citi.png" alt="citi logo"></p>
 
 ### Costco Anywhere Visa
+
+<img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/citi-costco.png" alt="citi costco anywhere">
+
 * Earn 4% cash back on eligible gas for the first $7,000 per year
 * 3% cash back on restaurants and eligible travel
 * 2% cash back on all other purchases from Costco and Costco.com
