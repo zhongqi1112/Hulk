@@ -1,6 +1,6 @@
 <!-- Chase Bank -->
 
-<p align="center"><img width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/chase.png" alt="chase bank logo"></p>
+<p align="center"><img height="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/chase.png" alt="chase bank logo"></p>
 
 ### Chase Freedom Flex
 
@@ -36,9 +36,12 @@
 
 <!-- Bank of America -->
 
-<p align="center"><img src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/boa.png" alt="boa logo"></p>
+<p align="center"><img height="450" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/boa.png" alt="boa logo"></p>
 
 ### Cash Rewards
+
+<img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/boa_cash_rewards.png">
+
 * $200 online cash rewards bonus offer
 * 3% cash back in the category of your choice
 * 2% cash back at grocery stores and wholesale clubs
@@ -47,11 +50,17 @@
 * No annual fee
 
 ### Travel Rewards
+
+<img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/boa_cash_rewards.png">
+
 * 25,000 online bonus points offer (a $250 value)
 * Earn unlimited 1.5 points for every $1 you spend on all purchases everywhere, every time and no expiration on points
 * No annual fee
 
 ### Premium Rewards
+
+<img align="right" width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/boa_cash_rewards.png">
+
 * 50,000 online bonus points offer (a $500 value)
 * Earn unlimited 2 points for every $1 spent on travel and dining purchases
 * 1.5 points per $1 on all other purchases
@@ -59,9 +68,9 @@
 * Annual fee $95
 
 
-## Citi Bank
+<!-- Citi Bank -->
 
-<p align="center"><img width="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/citi.png" alt="citi logo"></p>
+<p align="center"><img height="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/citi.png" alt="citi logo"></p>
 
 ### Costco Anywhere Visa
 * Earn 4% cash back on eligible gas for the first $7,000 per year
