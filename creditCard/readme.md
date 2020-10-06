@@ -1,6 +1,6 @@
 <!-- Chase Bank -->
 
-<p align="center"><img height="50" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/chase.png" alt="chase bank logo"></p>
+<p align="center"><img height="150" src="https://github.com/zhongqi1112/Hulk/blob/master/creditCard/cardImages/chase.png" alt="chase bank logo"></p>
 
 ### Chase Freedom Flex
 
