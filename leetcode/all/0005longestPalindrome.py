@@ -22,9 +22,11 @@ class Solution:
             right += 1
         return right - left - 1
 
-# Input:
-s = "babad"
-# Output: "bab"
-# Note: "aba" is also a valid answer.
-result = Solution().longestPalindrome(s)
-print(result)
+
+if __name__ == '__main__':
+    # Input:
+    s = "babad"
+    # Output: "bab"
+    # Note: "aba" is also a valid answer.
+    result = Solution().longestPalindrome(s)
+    print(result)
