@@ -1,9 +1,12 @@
+#
+# @lc app=leetcode id=1 lang=python3
+#
+# [1] Two Sum
+#
+
+# @lc code=start
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        # https://leetcode.com/problems/two-sum/
-        # https://www.geeksforgeeks.org/enumerate-in-python/
-        # Updated: 12/15/2020
-        
         seen = {}
         for count, item in enumerate(nums):
             complement = target - item
@@ -11,4 +14,5 @@ class Solution:
                 return [seen[complement], count]
             else:
                 seen[item] = count
-                
+# @lc code=end
+
