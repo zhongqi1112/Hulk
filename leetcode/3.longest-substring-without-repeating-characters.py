@@ -7,24 +7,28 @@
 # @lc code=start
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        if len(s) <= 1:
-            return len(s)
+        """
+        sliding window optimized
+        time complexity : O(n)
+        space complexity: O(min(n, m))
+        We need O(k) space for the sliding window, where k is the size of the Set.
+        The size of the Set is upper bounded by the size of the string n and the size of the charset/alphabet m. 
+        """
+        # init the longest length
         longestLength = 0
+        # create left pointer of the window
         i = 0
-        seen = dict()
+        # create sliding window
+        window = dict()
+        # traverse the string until right pointer to the end of string
         for j in range(len(s)):
-            if s[j] in seen:
-                # starting position will be the first repeat index + 1
-                if j - i > longestLength:
-                    longestLength = j - i
-                i = seen[s[j]] + 1
-                seen.pop(s[j])
-                seen[s[j]] = j
-            else:
-                # add item to seen
-                seen[s[j]] = j
-        if longestLength == 0:
-            longestLength = len(s)
+            # if the current item is in the window, update the left pointer
+            if s[j] in window:
+                i = max(window[s[j]], i)
+            # update longest length
+            longestLength = max(longestLength, j - i + 1)
+            # add next index of current item to the window
+            window[s[j]] = j + 1
         return longestLength
 # @lc code=end
 
