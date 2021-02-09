@@ -1,5 +1,5 @@
 1. Binary search
-	0. Question: 704,35,852,349,167,33,34,81,153,981,287,209,300,378,74
+	0. Question: 704,35,852,349,167,33,81,34,153,981,287,209,300,378,74
 	1. Find a value
 	2. Find a range (the smallest value n that greater than a value m)
 	3. Flip array
