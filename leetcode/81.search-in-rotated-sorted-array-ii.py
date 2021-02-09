@@ -1,26 +1,26 @@
 #
-# @lc app=leetcode id=33 lang=python3
+# @lc app=leetcode id=81 lang=python3
 #
-# [33] Search in Rotated Sorted Array
+# [81] Search in Rotated Sorted Array II
 #
 
 # @lc code=start
 class Solution:
-    def search(self, nums: List[int], target: int) -> int:
-        """
-        The idea is that we add some additional condition checks in the normal binary search in order to better narrow down the scope of the search.
-        Time complexity : O(logN)
-        Space complexity: O(1)
-        """
+    def search(self, nums: List[int], target: int) -> bool:
         left = 0
         right = len(nums) - 1
         while left <= right:
             middle = (left + right) // 2
             if nums[middle] == target:
-                return middle
+                return True
+            # this condition is important, it is the different from #33,
+            # if nums[middle] == nums[left], then we can find the relative position of target
+            elif nums[middle] == nums[left]:
+                left = left + 1
+                continue
             # pivot element is in second half
             # equal sign has to be here because middle point will be left element when even length
-            elif nums[middle] >= nums[left]:
+            elif nums[middle] > nums[left]:
                 # if target is located in the non-rotated subarray
                 if nums[left] <= target <= nums[middle]:
                     right = middle - 1
@@ -33,7 +33,6 @@ class Solution:
                     left = middle + 1
                 else:
                     right = middle - 1
-        return -1
+        return False
         
 # @lc code=end
-
