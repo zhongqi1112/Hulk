@@ -98,6 +98,37 @@ class Solution:
         # self.quickSort(nums, 0, len(nums) - 1)
         # return nums
 
+        """
+        Heap Sort
+        Time complexity : O(nlogn)
+        Space complexity:
+        Sorting In Place:
+        Stable:
+        """
+        n = len(nums)
+        for i in range(n//2 - 1,  -1, -1):
+            self.heapify(nums, n, i)
+
+        for i in range(n-1, 0, -1):
+            nums[i], nums[0] = nums[0], nums[i]
+            self.heapify(nums, i, 0)
+
+        return nums
+    
+    def heapify(self, nums, n, i):
+        largest = i
+        l = 2 * i + 1
+        r = 2 * i + 2
+        
+        if l < n and nums[largest] < nums[l]:
+            largest = l
+        if r < n and nums[largest] < nums[r]:
+            largest = r
+        if largest != i:
+            nums[i], nums[largest] = nums[largest], nums[i]
+            self.heapify(nums, n, largest)
+
+
 
     def quickSort(self, nums, low, high):
         if low < high:
