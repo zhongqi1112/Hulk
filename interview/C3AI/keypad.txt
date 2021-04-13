@@ -1,0 +1,24 @@
+# Keypad
+#
+# -------------------
+# |  1  |  2  |  3  |
+# | abc | def | ghi |
+# -------------------
+# |       ...       |
+# |                 |
+# -------------------
+# |       ...       |
+# |                 |
+# -------------------
+# |       ...       |
+# |                 |
+# -------------------
+#
+#
+# Given: sequence of key presses (digits), key mapping, lexicon (of all English words)
+# Return: all valid English words matching the exact key sequence
+#
+#
+# Example
+# Input: 2 1 2
+# Output: "dad", "fad"
