@@ -13,11 +13,31 @@
 #         self.right = right
 class Solution:
     def inorderTraversal(self, root: TreeNode) -> List[int]:
+        # Recursive Approach
+        # result = []
+        # if root:
+        #     result += self.inorderTraversal(root.left)
+        #     result.append(root.val)
+        #     result += self.inorderTraversal(root.right)
+        # return result
+
+        # Iterating method using Stack
         result = []
-        if root:
-            result += self.inorderTraversal(root.left)
+        stack = []
+        while root or stack:
+            while root:
+                stack.append(root)
+                root = root.left
+            root = stack.pop()
             result.append(root.val)
-            result += self.inorderTraversal(root.right)
+            root = root.right
+        # while root:
+        #     stack.append(root)
+        #     root = root.left
+        #     while root == None and stack:
+        #         temp = stack.pop()
+        #         result.append(temp.val)
+        #         root = temp.right
         return result
 
 # @lc code=end
