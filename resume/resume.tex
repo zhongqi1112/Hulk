@@ -1,7 +1,7 @@
 %-------------------------
 % Resume in Latex
-% Author : Stephen Wnag
-% Based off of: https://github.com/zhongqi1112/Hulk/tree/master/resume
+% Author : Stephen Wang
+% Based off of: https://github.com/stephengineer/Hulk/tree/master/resume
 % License : MIT
 %------------------------
 
@@ -128,28 +128,23 @@
   \resumeSubHeadingListEnd
 
 
-%-----------PROGRAMMING SKILLS-----------
-\section{Technical Skills}
- \begin{itemize}[leftmargin=0.15in, label={}]
-    \small{\item{
-     \textbf{Languages}{: Python, Java, JavaScript, C/C++, HTML/CSS, SQL, Lisp, Scala, Bash, Matlab} \\
-     \textbf{Frameworks}{: TensorFlow, PyTorch, ScikitLearn, Caffe, Keras, SpringBoot, Maven, Vue.js, Node.js} \\
-     \textbf{Developer Tools}{: Git, Docker, Jenkins, SonarQube, Kubernetes, Linux}
-    }}
- \end{itemize}
-
-
 %-----------EXPERIENCE-----------
 \section{Experience}
   \resumeSubHeadingListStart
 
     \resumeSubheading
       {Northrop Grumman Corporation, Defense Systems}{Aug. 2017 -- Present}
-      {Software Engineer}{}
+      {DevOps Engineer}{Oct. 2019 -- Present}
       \resumeItemListStart
-        \resumeItem{Designed, developed, integrated, and tested software}
-        \resumeItem{Determined user needs and analyzed system capabilities to resolve problems on program intent}
-        \resumeItem{Architected, designed and developed advanced system and realize the concept into prototype or production system}
+        \resumeItem{Created and improved deployment infrastructure using automation to improve agility, reliability, and traceability}
+        \resumeItem{Understood internal development processes end-to-end to streamline CI/CD pipelines}
+      \resumeItemListEnd
+      
+    \resumeSubSubheading
+      {Full Stack Engineer}{Aug. 2017 -- Oct. 2019}
+      \resumeItemListStart
+        \resumeItem{Designed and developed OOD architecture and infrastructure backend services in Java and C++}
+        \resumeItem{Simulated and created different scenarios of web applications with VueJS and AngularJS frameworks}
       \resumeItemListEnd
       
 % -----------Multiple Positions Heading-----------
@@ -178,16 +173,25 @@
 \section{Projects}
     \resumeSubHeadingListStart
     
+    % -----------Hidden Project-----------
+        % \resumeProjectHeading
+        %   {\textbf{Machine Learning Models}}{Jan. 2019 -- May 2021}
+        %   \resumeItemListStart
+        %     \resumeItem{Conceptualized and implemented classification, regression, decision tree and support vector machines of supervised learning and randomized optimization and clustering of unsupervised learning to visualize, compare and analyze the performance of the model in Sklearn}
+        %     \resumeItem{Designed and trained reinforcement learning agent to automate computational decision making through Markov decision processes and stochastic in OpenAI}
+        %     \resumeItem{Selected and conducted neural network architectures, multi-layered perceptions, convolutional neural networks, recurrent neural networks, etc. based on the requirements and problem characteristics and analyze the performance in Pytorch and TensorFlow}
+        %   \resumeItemListEnd
+    %-------------------------------------------
         \resumeProjectHeading
-          {\textbf{Machine Learning Models}}{Jan. 2019 -- Present}
+          {\textbf{Hateful Memes Detection}}{Jan. 2020 -- May 2021}
           \resumeItemListStart
-            \resumeItem{Conceptualized and implemented classification, regression, decision tree and support vector machines of supervised learning and randomized optimization and clustering of unsupervised learning to visualize, compare and analyze the performance of the model in Sklearn}
-            \resumeItem{Designed and trained reinforcement learning agent to automate computational decision making through Markov decision processes and stochastic in OpenAI}
-            \resumeItem{Selected and conducted neural network architectures, multi-layered perceptions, convolutional neural networks, recurrent neural networks, etc. based on the requirements and problem characteristics and analyze the performance in Pytorch and TensorFlow}
+            \resumeItem{Used FasterRCNN and object detection algorithms (Detectron) extracted image features}
+            \resumeItem{Fine-tuned and trained four different multi-modal NLP transformer architecture ensemble, Visual BERT, ViLBERT, RoBERT baseline models, and replace encoders in Colab GPU}
+            \resumeItem{Implemented soft and hard ensemble learning methods to produce joint predictions from best performing models to achieve high accuracy in Pytorch and Sklearn}
           \resumeItemListEnd
-          
+
         \resumeProjectHeading
-          {\textbf{Common Control System Processing, Exploitation, and Dissemination}}{Oct. 2019 -- Present}
+          {\textbf{Common Control System Processing, Exploitation, and Dissemination}}{Oct. 2019 -- Dec. 2020}
           \resumeItemListStart
             \resumeItem{Built a single control station that can use PED services to obtain sensor imagery/FMV files from Unmanned Systems across Aviation, Surface, Sub-Surface, and Ground domains worked with Raytheon for PMA-281 under Naval Air System Command (NAVAIR)}
             \resumeItem{Implemented DevOps services in C++ and deployed on Docker of Kubernetes with integration testing of Jenkins, SonarQube, GCov and etc. on Linux OS in the agile development scrum team}
@@ -204,6 +208,16 @@
           
     \resumeSubHeadingListEnd
 
+
+%-----------PROGRAMMING SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Python, Java, JavaScript, C/C++, HTML/CSS, SQL, Lisp, Scala, Bash, Matlab} \\
+     \textbf{Frameworks}{: ScikitLearn, TensorFlow, Keras, PyTorch, Caffe, SpringBoot, Maven, VueJS, AnularJS} \\
+     \textbf{Developer Tools}{: Git, Docker, Jenkins, SonarQube, Kubernetes, Chef, Linux}
+    }}
+ \end{itemize}
 
 %-------------------------------------------
 \end{document}
