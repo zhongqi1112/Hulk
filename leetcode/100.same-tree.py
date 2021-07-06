@@ -18,8 +18,9 @@ class Solution:
         # Space complexity: O(n)
         if not p and not q: return True
         if not p or not q: return False
-        if p.val != q.val: return False
-        return self.isSameTree(p.right, q.right) and self.isSameTree(p.left, q.left)
+        return p.val == q.val \
+            and self.isSameTree(p.right, q.right) \
+            and self.isSameTree(p.left, q.left)
 
 # @lc code=end
 
