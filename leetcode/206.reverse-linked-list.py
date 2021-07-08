@@ -20,7 +20,7 @@ class Solution:
         # init previous and currrent node
         prev = None
         curr = head
-        while curr is not None:
+        while curr:
             # save next node to template
             nextTemp = curr.next
             # next pointer point to previous node
